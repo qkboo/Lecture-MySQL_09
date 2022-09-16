@@ -1,5 +1,4 @@
-강사 소개
- - [고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
+관악여성개발원 MySQl 강의
 
 ---
 
