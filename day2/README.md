@@ -12,3 +12,11 @@
 
  - 공유폴더 : `MySQL교안3-SQL-스키마_테이블v1_2.pdf`
  - 샘플 파일: `demo_bookstore.sql`, `pdt.sql`
+
+
+---
+# 작업 파일
+
+1. [day1.sql](day1.sql)
+2. [day2.sql](day2.sql)
+
