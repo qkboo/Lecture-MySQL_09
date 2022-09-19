@@ -7,5 +7,8 @@
 
 # 2. SQL 과 스키마 테이블
 
+ - ERD 그림: <img src='https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Sample-Database.png'>
+    - https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Sample-Database.png
+
  - 공유폴더 : `MySQL교안3-SQL-스키마_테이블v1_2.pdf`
  - 샘플 파일: `demo_bookstore.sql`, `pdt.sql`
