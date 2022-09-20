@@ -9,19 +9,19 @@
 2. [Day2](day2/README.md)
    - SQL 기본
 
-3. [Day3](Day3/README.md)
+3. [Day3](day3/README.md)
    - SQL 기본
 
-4. [Day4](Day3/README.md)
+4. [Day4](day3/README.md)
    - SQL 고급
 
-5. [Day5](Day5/README.md)
+5. [Day5](day5/README.md)
    - 뷰/인덱스/스토어드 프로시저
 
-6. [Day6](Day6/README.md)
+6. [Day6](day6/README.md)
    - 공공데이터 데이터베이스 구축 2
 
-7. [Day](Day6/README.md)
+7. [Day](day6/README.md)
    - 공공데이터 데이터베이스 구축 2
 
 ---
