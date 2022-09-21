@@ -12,7 +12,7 @@
 3. [Day3](day3/README.md)
    - SQL 기본
 
-4. [Day4](day3/README.md)
+4. [Day4](day4/README.md)
    - SQL 고급
 
 5. [Day5](day5/README.md)
