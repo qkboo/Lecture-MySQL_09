@@ -105,3 +105,33 @@ insert into booklibrary5(bookid, bookname)
 	values(100, '홍길동');
 select * from booklibrary5;
 
+
+
+
+
+
+
+/* 
+04 alter  문
+ */
+show tables;
+
+
+desc booklibrary;
+
+alter table booklibrary add inventory varchar(30);
+desc booklibrary;
+
+alter table booklibrary modify inventory int;
+alter table booklibrary add company varchar(30);
+
+alter table booklibrary drop column inventory;
+alter table booklibrary drop inventory;
+
+
+
+-- primary key 추가 
+desc booklibrary;
+alter table booklibrary drop primary key;
+alter table booklibrary add primary key(bookid);
+
