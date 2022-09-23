@@ -4,7 +4,9 @@
  - 
 # 2. 공유폴더: `MySQL교안6-서브쿼리v202208.pdf`
 
-# 3. 공유폴더: `MySQL교안7-조인v202208.pdf`
+# 3. Join
+ - 공유폴더: `MySQL교안7-조인v202208.pdf`
+ - 참고: 조인 예제 https://futurists.tistory.com/17
  - bookstore db 실습 문제: [ex_bookstore_db.sql](ex_bookstore_db.sql)
 
 # 4. 공공 데이터 이용 DB 구축
