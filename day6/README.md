@@ -5,5 +5,6 @@
 # 2. 공유폴더: `MySQL교안6-서브쿼리v202208.pdf`
 
 # 3. 공유폴더: `MySQL교안7-조인v202208.pdf`
+ - bookstore db 실습 문제: [ex_bookstore_db.sql](ex_bookstore_db.sql)
 
 # 4. 공유폴더: `교안10-공공데이터v202206.pdf`
