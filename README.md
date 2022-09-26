@@ -18,11 +18,8 @@
 5. [Day5](day5/README.md)
    - 뷰/인덱스/스토어드 프로시저
 
-6. [Day6](day6/README.md)
-   - 공공데이터 데이터베이스 구축 1
-
-7. [Day](day6/README.md)
-   - 공공데이터 데이터베이스 구축 2
+6. [Day6,7](day6/README.md)
+   - 공공데이터 데이터베이스 구축
 
 ---
 MySQL 관련 정리 잘된 곳:
