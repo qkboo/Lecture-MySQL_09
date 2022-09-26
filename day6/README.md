@@ -20,3 +20,4 @@
 # 5. 공공데이터 Db 엑셀 이용 참고
  - 파워쿼리 이용: https://nwlog.tistory.com/10
  - MySQL for Excel: https://zionh.tistory.com/44
+ - MySQL ODBC : https://xlworks.net/using_database_in_excel_lec015/
